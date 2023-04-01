@@ -1,4 +1,9 @@
-# Figure 1D: Six different loop-mediated isothermal amplification (LAMP) primer combinations were tested. (D) Diagrams shows the 6 different LAMP primer combinations (in triplicate) and their water controls. The horizontal black dashed line indicates a threshold set to 15 million RFU. 
+#########################################################################################################################
+# Figure 1D: Six different loop-mediated isothermal amplification (LAMP) primer combinations were tested.               #
+# Diagrams shows the 6 different LAMP primer combinations (in triplicate) and their water controls.                     #
+# The horizontal black dashed line indicates a threshold set to 15 million RFU.                                         #
+#########################################################################################################################
+
 
 # Load R libraries
 
