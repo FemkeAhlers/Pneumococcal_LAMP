@@ -10,7 +10,7 @@ library(readr)
 
 # Import dataframes
 
-LAMP_LOD = read.csv("03_02112022_Dilution_LAMP.csv")
+LAMP_LOD = read.csv("LOD_LAMP.csv")
 
 
 # Create Figure 3
