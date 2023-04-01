@@ -3,6 +3,7 @@
 # to determine the limit of detection of the new LAMP assay SP2020_3+. The horizontal dashed line indicates the         #
 # fluorescence threshold.                                                                                               #
 #########################################################################################################################
+
 # Load R libraries
 
 library(ggplot2)
