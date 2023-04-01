@@ -1,5 +1,8 @@
-# Figure 3 : Limit of detection of the LAMP assay. Three independent serial dilutions of pneumococcal DNA were used to determine the limit of detection of the new LAMP assay SP2020_3+. The horizontal dashed line indicates the fluorescence threshold.
-
+#########################################################################################################################
+# Figure 3 : Limit of detection of the LAMP assay. Three independent serial dilutions of pneumococcal DNA were used     #
+# to determine the limit of detection of the new LAMP assay SP2020_3+. The horizontal dashed line indicates the         #
+# fluorescence threshold.                                                                                               #
+#########################################################################################################################
 # Load R libraries
 
 library(ggplot2)
