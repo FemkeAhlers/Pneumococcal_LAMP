@@ -2,7 +2,8 @@
 
 
 
-![LAMP_image](https://user-images.githubusercontent.com/82872002/229370736-70f4ce26-9f99-480e-8c31-e33dd2bf59a4.jpg)
+![LAMP_image](https://user-images.githubusercontent.com/82872002/229370800-6dd171de-aaba-4479-b3bf-7fbdb63be884.jpg)
+
 
 
 
