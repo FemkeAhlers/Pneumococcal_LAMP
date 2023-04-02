@@ -2,7 +2,7 @@
 
 
 
-![LAMP_image](https://user-images.githubusercontent.com/82872002/228614032-27bcd317-df9b-4bcb-839d-a74be9e09901.jpg)
+![LAMP_image](https://user-images.githubusercontent.com/82872002/229370736-70f4ce26-9f99-480e-8c31-e33dd2bf59a4.jpg)
 
 
 
